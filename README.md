@@ -1,15 +1,14 @@
 # CybersecNotes
-Notes and hand-on practice from TryHackMe,HackTheBox and cybersecurity tools
+Notes and hands-on practice from TryHackMe, HackTheBox, cybersecurity tools, and self-research.
 
-## What’s in this repo?
-- *Hands-on notes* from TryHackMe, HTB, etc.
-- *Tool usage*: Nmap, Shodan, Whois, dnsdumpster  tools
-- *Concepts covered*: Recon, Scanning, Exploits, Crypto
-- *OS*: Kali Linux 2024 VM
+## 🔍 What’s in this repo?
+- **SkillDuniya Internship**: Concepts, tools, mini-projects
+- **Research Notes**: Unique topics like Digital Stalking
+- **Hands-on labs**: TryHackMe, HackTheBox summaries
+- **Tools & Techniques**: Guides for Nmap, Shodan, etc.
+- **OS**: Kali Linux 2024 VM
 
-## Goal
-Build real cybersecurity skills for internships,concepts of Security+, and the long game in infosec.
+## 🎯 Goal
+Build real cybersecurity skills through practice + documentation. Preparing for internships, Security+ certification, and long-term infosec roles.
 
----
-
-This repo is updated weekly with fresh content as I learn and apply more.
+> This repo is updated weekly as I grow in this field. 🔥
